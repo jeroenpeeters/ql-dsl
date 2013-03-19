@@ -1,1 +1,1 @@
-Software Constructing QL Assignment of Jeroen Peeters
+Software Construction QL Assignment of Jeroen Peeters

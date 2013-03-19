@@ -1,2 +1,1 @@
-ql-dsl
-======
+Software Constructing QL Assignment of Jeroen Peeters
